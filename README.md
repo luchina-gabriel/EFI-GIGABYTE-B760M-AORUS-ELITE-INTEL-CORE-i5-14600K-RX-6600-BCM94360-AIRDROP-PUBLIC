@@ -1,5 +1,7 @@
 # Hackintosh, Gigabyte B760M Aorus Elite, Intel Core i5 14600K, AMD Radeon RX 6600
 
+![Portfolio](https://github.com/user-attachments/assets/d229a2a1-b6e9-4f72-9adb-f9ede0fda0b4)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sequoia (15.5)
